@@ -44,7 +44,7 @@ size = (os.path.getsize("C:\\Users\\user\\Desktop\\1.exe"))
 print (size)
 
 t = ["Bytes", "KB", "MB", "GB"]
-i = 0
+i = 1
 
 
 while size >= 1024:
